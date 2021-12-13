@@ -92,6 +92,6 @@ module SetAsPrimary
     end
 
     def _klass
-      self.class
+      self.base_class
     end
 end
